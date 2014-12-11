@@ -1,4 +1,4 @@
-Remotelog.Server.Net
+Remotelog.Net.Server
 ====================
 A log that can be written to via a GET call to an API. Comes as Web API controller that can be dropped in any host application.
 
@@ -16,6 +16,13 @@ Supports
 Run using the included Web API site
 -----------------------------------
 - Build in Visual Studio or use the MSbuild file \Remotelog.Net.Host\Remotelog.Net.Host.build.release.bat.
+
+
+Contents
+--------
+- Remotelog.Net.Server : Core logic.
+- Remotelog.Net.Server.AzureStorage : Azure Storage backend implementation.
+- Remotelog.Net.Host : Example Web API host site. This is included as a guide for how to set up and run a log server.
 
 
 Settings
