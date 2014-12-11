@@ -1,0 +1,10 @@
+/_deploy
+/packages
+/Remotelog.Net.Host/obj
+/Remotelog.Net.Host/bin
+/Remotelog.Net.Server/obj
+/Remotelog.Net.Server/bin
+/Remotelog.Net.Server.AzureStorage/obj
+/Remotelog.Net.Server.AzureStorage/bin
+/Remotelog.Net.Server.v12.suo
+/Remotelog.Net.Server.sln.DotSettings.user

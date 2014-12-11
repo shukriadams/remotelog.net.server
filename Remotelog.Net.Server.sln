@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remotelog.Net.Host", "Remotelog.Net.Host\Remotelog.Net.Host.csproj", "{F02049F5-F255-4B89-8871-E95476DFDBC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remotelog.Net.Server", "Remotelog.Net.Server\Remotelog.Net.Server.csproj", "{37BD406C-5211-441E-85B5-B351BEAE4E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remotelog.Net.Server.AzureStorage", "Remotelog.Net.Server.AzureStorage\Remotelog.Net.Server.AzureStorage.csproj", "{5C0A9170-7E24-4E4C-B13B-723BA2B69643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02049F5-F255-4B89-8871-E95476DFDBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02049F5-F255-4B89-8871-E95476DFDBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02049F5-F255-4B89-8871-E95476DFDBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02049F5-F255-4B89-8871-E95476DFDBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BD406C-5211-441E-85B5-B351BEAE4E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BD406C-5211-441E-85B5-B351BEAE4E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BD406C-5211-441E-85B5-B351BEAE4E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BD406C-5211-441E-85B5-B351BEAE4E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0A9170-7E24-4E4C-B13B-723BA2B69643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0A9170-7E24-4E4C-B13B-723BA2B69643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0A9170-7E24-4E4C-B13B-723BA2B69643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0A9170-7E24-4E4C-B13B-723BA2B69643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
